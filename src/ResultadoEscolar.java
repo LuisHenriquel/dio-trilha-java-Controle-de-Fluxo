@@ -10,5 +10,15 @@ public class ResultadoEscolar {
 
         }else
             System.out.println("Reprovado");
+
+        //      Condição Ternária
+        /*
+           int nota = 7;
+           String resultado = nota >=7 ? "APROVADO" : "REPROVADO";
+           System.out.prinln(resultado);
+        */
+
+
+
     }
 }
